@@ -12,7 +12,7 @@ Web accessibility is an increasingly important consideration for businesses. It 
    *  Grouped CSS selectors as per scout rule.
 
 ## Link to Deployed Application
-[Horiseon Website](https://c1flores.github.io/first-on-the-job-ticket/)
+[Horiseon Website](https://c1flores.github.io/First-On-The-Job-Ticket/)
 
 
 ## Screenshots
