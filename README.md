@@ -7,6 +7,16 @@ Web accessibility is an increasingly important consideration for businesses. It 
 ## Link to Deployed Application
 [Horiseon Website](https://c1flores.github.io/First-On-The-Job-Ticket/)
 
+## Technologies Used
+
+<div style="display: inline_block"><br>
+<img height="40" align="center" alt="Chris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="40" align="center" alt="Chris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+</br>
 
 ## Screenshots
 
