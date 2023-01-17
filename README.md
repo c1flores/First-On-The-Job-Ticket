@@ -1,4 +1,16 @@
+
+<!-- omit in toc -->
 # First-On-the-Job-Ticket
+
+<!-- omit in toc -->
+## Table of Contents
+- [Overview](#overview)
+- [Why does Web Accessbility Matter?](#why-does-web-accessbility-matter)
+- [Technologies Used](#technologies-used)
+- [Screen Capture](#screen-capture)
+- [Live Application](#live-application)
+
+## Overview
 This repository is an exhibition of a feature request challenge. For context, a marketing agency has hired me to refactor an existing site to make it more accessible.
 
 ## Why does Web Accessbility Matter?
@@ -15,7 +27,7 @@ Web accessibility is an increasingly important consideration for businesses. It 
 
 </br>
 
-## Screenshots
+## Screen Capture
 
 ![P1](https://user-images.githubusercontent.com/81927296/182465423-f3fff2d6-bff1-4631-812c-bd5ce4ae43a6.jpg)
 ![P2](https://user-images.githubusercontent.com/81927296/182465430-940c8eab-797b-4419-a00c-6cc882d14626.jpg)
